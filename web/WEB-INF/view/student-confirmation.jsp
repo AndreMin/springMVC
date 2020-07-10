@@ -5,6 +5,8 @@
 </head>
 <body>
 The Student is confirmed: ${student.firstName} ${student.lastName}
+<br><br>
+The Student country is: ${student.country}
 
 </body>
 
